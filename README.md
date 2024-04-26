@@ -1,3 +1,5 @@
+> **note**: This repository is archived and development / support is discontinued.
+
 DeeSample - A simple sample Android application for Deelang
 ===========================================================
 
